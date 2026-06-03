@@ -2,8 +2,7 @@
 
 ![Version](https://img.shields.io/badge/version-1.0-blue)
 ![Type](https://img.shields.io/badge/type-Hardware-orange)
-![Status](https://img.shields.io/badge/status-active<img width="400" height="225" alt="WhatsApp Video 2026-06-03 at 1 50 50 PM" src="https://github.com/user-attachments/assets/c2109ac5-4c2e-4483-8836-b9fbcdaefb82" />
--brightgreen)
+![Status](https://img.shields.io/badge/status-active-brightgreen)
 ![MCU](https://img.shields.io/badge/MCU-STM32F103-red)
 ![RTOS](https://img.shields.io/badge/RTOS-FreeRTOS%20%2F%20CMSIS--OS2-yellow)
 
