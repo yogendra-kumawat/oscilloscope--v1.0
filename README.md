@@ -1,4 +1,4 @@
-# ⚡ Oscilloscope v1.0 — Power & Control Board
+# ⚡ Function_generator v1.0 — Power & Control Board
 
 ![Version](https://img.shields.io/badge/version-1.0-blue)
 ![Type](https://img.shields.io/badge/type-Hardware-orange)
@@ -12,7 +12,7 @@
 
 ## 📋 Overview
 
-This project is a **portable open-source oscilloscope** built around the STM32F103 microcontroller. It combines:
+This project is a **portable open-source Function_generator** built around the STM32F103 microcontroller. It combines:
 
 - Safe **Li-ion battery charging** from an external USB/DC source
 - A clean **regulated voltage rail** for the microcontroller (MCU)
