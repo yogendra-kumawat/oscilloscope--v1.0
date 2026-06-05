@@ -18,7 +18,7 @@ This project is a **portable open-source Function_generator** built around the S
 - A clean **regulated voltage rail** for the microcontroller (MCU)
 - **Control switches** for power on/off and user interaction
 - Protection and filtering circuitry for stable operation
-- **Real-time waveform generation** with adjustable frequency and duty cycle
+- **Real-time waveform generation** with adjustable frequency and duty cycle **{PWM ,DC,Square}{working for sine,triangular,and oscilloscopic function}**
 - **Dual-channel ADC signal acquisition** with interrupt-driven sampling
 - **SSD1306 OLED display** with a multi-window navigation menu
 - **FreeRTOS / CMSIS-OS2** multitasking firmware
